@@ -1,7 +1,7 @@
-## Robotics-Perception-UPenn
+# Robotics-Perception-UPenn
 
 
-# Week2 Assignment
+## Week2 Assignment
 
 The instruction pdf has some problem. Correct equations are the followings:
 
